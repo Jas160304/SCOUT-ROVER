@@ -46,5 +46,4 @@ Detailed documentation can be found in the `/docs` folder, including assembly in
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss potential improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
